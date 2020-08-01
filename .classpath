@@ -6,5 +6,6 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoop-hdfs-jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoop-mapreduce-jar"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoop-yarn-jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/flink-jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
